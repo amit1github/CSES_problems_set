@@ -1,0 +1,24 @@
+{
+  "name": "cses_problems_set_using_js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This repository contains my solutions to the CSES Problem Set, a collection of programming challenges covering various topics. Explore my solutions, explanations, and track my progress as I work through these problems to enhance my algorithmic and coding skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit1github/CSES_problems_set.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit1github/CSES_problems_set/issues"
+  },
+  "homepage": "https://github.com/amit1github/CSES_problems_set#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
